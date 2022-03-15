@@ -27,6 +27,6 @@
     "yargs-parser": "^13.1.0"
   },
   "dependencies": {
-    "lodash-es": "^4.17.11"
+    "lodash-es": "^4.17.21"
   }
 }
